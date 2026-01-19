@@ -1,3 +1,5 @@
+![Profile Header - this is like a comment or note](repository url)
+
 # 💫 About Me:
 🔭 I’m currently working on improving myself.<br>👯 I’m looking to collaborate on learning.<br>🤝 I’m looking for help with gaining experience from industry professionals.<br>🌱 I’m currently learning courses under an undergraduate Data Science program.<br>💬 Ask me about anything :D
 
