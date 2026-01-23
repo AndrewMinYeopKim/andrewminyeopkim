@@ -1,4 +1,4 @@
-![Profile Header - this is like a comment or note](repository url)
+![Profile Header - this is like a comment or note]([repository url](https://github.com/AndrewMinYeopKim/21st-Century-IT-Skills-Outputs/blob/main/Laboratory%202%3A%20Personal%20Branding%20Kit%20%2B%20GitHub%20Profile%20Setup/branding/banner/Github%20Header.png))
 
 # 💫 About Me:
 🔭 I’m currently working on improving myself.<br>👯 I’m looking to collaborate on learning.<br>🤝 I’m looking for help with gaining experience from industry professionals.<br>🌱 I’m currently learning courses under an undergraduate Data Science program.<br>💬 Ask me about anything :D
