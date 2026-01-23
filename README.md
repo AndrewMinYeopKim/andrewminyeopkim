@@ -1,7 +1,7 @@
 ![Profile Header](https://github.com/AndrewMinYeopKim/21st-Century-IT-Skills-Outputs/blob/main/Laboratory%202%3A%20Personal%20Branding%20Kit%20%2B%20GitHub%20Profile%20Setup/branding/banner/Github%20Header.png)
 
 # 💫 About Me:
-🔭 I’m currently working on improving myself.<br>👯 I’m looking to collaborate on learning.<br>🤝 I’m looking for help with gaining experience from industry professionals.<br>🌱 I’m currently learning courses under an undergraduate Data Science program.<br>💬 Ask me about anything :D
+🔭 I’m currently working on improving myself and securing a career in brain-computer interface innovation.<br>👯 I’m looking to collaborate on learning.<br>🤝 I’m looking for help with gaining experience from industry professionals, particularly in Data Science and Neuroscience research.<br>🌱 I’m currently learning courses under an undergraduate Data Science program.<br>💬 Ask me about anything :D
 
 
 # 💻 Tech Stack:
